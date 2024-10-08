@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 08, 2024 at 06:45 PM
+-- Generation Time: Oct 08, 2024 at 07:23 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 7.4.33
 
@@ -41,14 +41,14 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`, `gambar`) VALUES
-(1, 'Dian Supriyadi', '20220050153', 'diansupriyadi@gmail.com', 'Sistem Informasi', '65831dd20a711.jpg'),
-(2, 'Aldo Yogasmara', '20220050150', 'aldoyoga@gmail.com', 'Teknik Mesin', '65831e4a022d8.jpg'),
-(3, 'Rizki Nur Azim', '20220050151', 'rizkiazim@gmail.com', 'Teknik Informatika', '65842fbb309ea.jpg'),
-(4, 'Davina Felisha Putri', '20220050152', 'davinafelisha@gmail.com', 'Teknik Sipil', 'mobil4.jpg'),
-(5, 'Gibran Akbar Revansa', '20220050154', 'gibranakbar@gmail.com', 'Akuntansi', 'mobil5.jpg'),
-(6, 'Dafa Raihan', '20220050155', 'dafaraihan@gmail.com', 'Manajemen', 'mobil6.jpg'),
-(7, 'Taufik Rahman', '20220050156', 'taufikrahman@gmail.com', 'Sistem Informasi', 'mobil7.jpg'),
-(10, 'Siska Putri', '20220050158', 'siskaputri@gmail.com', 'Sistem Informasi', '658320b754286.jpg');
+(1, 'Dian Supriyadi', '20220050000', 'aaa@gmail.com', 'Sistem Informasi', '65831dd20a711.jpg'),
+(2, 'Aldo Yogasmara', '20220050150', 'bbb@gmail.com', 'Teknik Mesin', '65831e4a022d8.jpg'),
+(3, 'Rizki Nur Azim', '20220050151', 'ccc@gmail.com', 'Teknik Informatika', '65842fbb309ea.jpg'),
+(4, 'Davina Felisha Putri', '20220050152', 'ddd@gmail.com', 'Teknik Sipil', 'mobil4.jpg'),
+(5, 'Gibran Akbar Revansa', '20220050154', 'eee@gmail.com', 'Akuntansi', 'mobil5.jpg'),
+(6, 'Dafa Raihan', '20220050155', 'fff@gmail.com', 'Manajemen', 'mobil6.jpg'),
+(7, 'Taufik Rahman', '20220050156', 'ggg@gmail.com', 'Sistem Informasi', 'mobil7.jpg'),
+(10, 'Siska Putri', '20220050158', 'hhh@gmail.com', 'Sistem Informasi', '658320b754286.jpg');
 
 -- --------------------------------------------------------
 
